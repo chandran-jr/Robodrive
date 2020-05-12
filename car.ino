@@ -2,8 +2,8 @@
 #include <ESP8266WiFi.h>
 #include <BlynkSimpleEsp8266.h>
 char auth[] = "";
-char ssid[] = "bsnl";
-char pass[] = "jamesbond";
+char ssid[] = "";
+char pass[] = "";
 
 void setup()
 { Serial.begin(9600);
