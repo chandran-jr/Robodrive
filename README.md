@@ -15,7 +15,7 @@ Steps.
 
 6. Make sure you set the board as ESP8266 module in the arduino software application (should install blynk library if you haven't).
 
-7. Connect a USB cable to your NODEMCU from your lpatop.
+7. Connect a USB cable to your NODEMCU from your laptop.
 
 8. Run the code and wait for the "ping" to appear in the serial monitor.
 
