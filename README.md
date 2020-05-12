@@ -13,7 +13,7 @@ Steps.
 
 5. Put the name of the wifi which is connected to your smartphone and also its password in the arduino code.
 
-6. Make sure you set the board as ESP8266 module in the arduino software application.
+6. Make sure you set the board as ESP8266 module in the arduino software application (should install blynk library if you haven't).
 
 7. Connect a USB cable to your NODEMCU from your lpatop.
 
