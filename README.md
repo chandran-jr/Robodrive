@@ -23,5 +23,5 @@ Steps.
 
 Now by pressing the buttons,you should be able to control your car.🤞
 
-<video src="https://github.com/chandran-jr/Wifi-controlled-car/blob/master/VID-20190912-WA0007.mp4">
+<img src="https://github.com/chandran-jr/Wifi-controlled-car/blob/master/IMG_20200412_140145.jpg" width= 300px>
 
